@@ -20,12 +20,12 @@ VulnShield Scanner is a comprehensive security assessment tool designed for secu
 - **Comprehensive Reporting** - Detailed PDF & HTML reports
 - **Rate-Limited Scanning** - Ethical and non-intrusive scanning
 
-- ## 📸 Screenshots
+## 📸 Screenshots
 
 <div align="center">
 
-![VulnShield Scanner Demo](Vulnshield-Scanner.png)
-*VulnShield Scanner in action - Professional security assessment tool*
+![VulnShield Scanner Demo](./screenshots/VulnShield-Scanner.png)
+*Professional security scanning interface with real-time vulnerability detection*
 
 </div>
 
