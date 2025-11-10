@@ -162,7 +162,7 @@ class ReportGenerator:
         """
         
         try:
-            with open(filename, 'w', encoding='utf-8') f:
+            with open(filename, 'w', encoding='utf-8') as f:
                 f.write(html_content)
             return True
         except Exception as e:
